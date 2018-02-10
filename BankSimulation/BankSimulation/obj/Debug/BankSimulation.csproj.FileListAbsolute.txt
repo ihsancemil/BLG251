@@ -1,0 +1,10 @@
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\bin\Debug\BankSimulation.exe.config
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\bin\Debug\BankSimulation.exe
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\bin\Debug\BankSimulation.pdb
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.csprojResolveAssemblyReference.cache
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.Form1.resources
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.Properties.Resources.resources
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.csproj.GenerateResource.Cache
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.csproj.CoreCompileInputs.cache
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.exe
+C:\GitProjects\BLG251\BankSimulation\BankSimulation\obj\Debug\BankSimulation.pdb
